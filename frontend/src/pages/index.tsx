@@ -6,7 +6,7 @@ type Props = {
 
 export default function Home({ title = 'React avançado' }: Props) {
   return (
-    <div className="container">
+    <div className='container'>
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
